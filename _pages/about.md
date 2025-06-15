@@ -1,5 +1,5 @@
 ---
-permalink: / https://github.com/pollynqa/pollynqa.github.io/tree/master
+permalink: / 
 title: "Paulina Miter"
 author_profile: true
 redirect_from: 
