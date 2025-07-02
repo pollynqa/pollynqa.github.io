@@ -11,52 +11,28 @@ redirect_from:
 
 Education
 ======
-* BSc in Psychology, London Metropolitan University, 2012
+* BSc in Psychology, London Metropolitan University, 2021-2025
+  Dissertation: “Exploring the relationship between theta power and cognitive performance in children: a multilevel    modelling analysis of the South-African Safe Passage study” (82%).
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June - July 2025: Machine Learning Intern
+  * University College London
+  * Research intern selected to work on NLP tool for question answering using the BERT model within the Parkinson's      disease domain. This research applies Artificial Intelligence to support precision medicine by analysing genetic     data and disease causation.
+  * Supervisor: Daniel Onah
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* November 2024 - July 2025: In2Research Participant
+  * I was selected for a fully-founded program designed to support undergraduate students and provide an insight         into postgraduate research. 
+  * During my time there, I participated in workshops and training sessions on topics such as academic CV writing,       interview preparation, and effective communication of research findings.
+  * Received a mentorship guidance to support academic and career development. 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python: Jupyter Notebook reports, data analysis, data cleaning and preprocessing
+* Libraries: pandas,numpy, scikit-learn,pytorch,keras, tensorflow
+* R Studio: Statystical Analysis and data visualization 
+* PSS: Data cleaning and preprocessing, data analysis
+* Basic programming in HTML, CSS, and MATLAB
+* Data visualisation: ggplot (R), ggplot (Python), seaborn, matplotlib
+* Machine learning: BERT model, Natural Language Processing (NLP), deep learning
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
